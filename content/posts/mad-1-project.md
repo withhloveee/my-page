@@ -31,7 +31,7 @@ You are required to build a Placement Portal Application web application that al
 <!-- Feel free to look at the project code: [GitHub](https://github.com/withhloveee) -->
 
 <div style="text-align:center;">
-  <img src="/my-page/images/mad1-proj.png" width="850"style="border-radius:12px;">
+  <img src="/images/mad1-proj.png" width="850"style="border-radius:12px;">
   <p style="margin-top:8px; font-size:14px; opacity:0.8;">
     Quick glance at the application.
   </p>
