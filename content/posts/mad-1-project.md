@@ -37,7 +37,7 @@ You are required to build a Placement Portal Application web application that al
   </p>
 </div>
 
-# My Learning/Observations
+# My Reflections
 
 Since I already enjoyed writing code in Python, working with Flask felt very natural. The project itself was fairly simple visually, mostly a traditional multi-page application (MPA) that focused more on functionality than design.
 
