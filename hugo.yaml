@@ -1,0 +1,53 @@
+baseURL: https://example.org/
+locale: en-us
+title: withhloveee
+theme: ["PaperMod"]
+
+params:
+  assets:
+    favicon: "favicon.ico"
+  ShowReadingTime: true
+  ShowWordCount: true
+  homeInfoParams:
+    Title: "Aditya's Space"
+    Content: |
+      Welcome to my "personal site", where I share about my life and the things that catch my attention. While a lot of my world revolves around computers, this space is a mix of everything.
+      I hope you find something valuable here.
+
+  socialIcons:
+    - name: email
+      url: "adityaprasad1040g@gmail.com"
+
+    - name: github
+      url: "https://github.com/withhloveee"
+
+    - name: youtube
+      url: "https://youtube.com/@codewithkoohii?si=C9ahBLZzwVNN3htD"
+
+menu:
+  main:
+    - name: About
+      url: /about/
+      weight: 10
+
+    - name: Tags
+      url: /tags/
+      weight: 30
+
+    - name: Search
+      url: /search/
+      weight: 30
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+pagination:
+  pagerSize: 2
