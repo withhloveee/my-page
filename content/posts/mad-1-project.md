@@ -49,13 +49,24 @@ Since I already enjoyed writing code in Python, working with Flask felt very nat
 What stood out to me most was understanding how everything connects together in a web app: routing, templating, handling different HTTP requests, structuring files, and turning small ideas into something actually usable from a browser in a simple way for users.
 
 
-# My Grades for this
+# Recognition
 
 >Total Course Score - `100.00`<br>
 >Course Grade Letter - `S`
+
+After the project evaluation was completed, I was awarded the **Best Project Certificate** for the term **JAN 2026**. This certificate was awared to a small number of projects out of thousands of submissions.
+
+### Official Certificate:
+<div style="text-align:center;">
+  <a href="/certificates/mad1-best-project-certificate.pdf">
+    <img src="/images/mad-1-certificate.jpg" width="850"style="border-radius:12px;">
+    <p style="margin-top:8px; font-size:14px; opacity:0.8;">
+    </p>
+  </a>
+</div>
 
 # Ending
 
 So this was about my first ever full-fledged project built from scratch.
 
-Thanks for reading till the end.
+Thank you for taking the time to read about my experience.
