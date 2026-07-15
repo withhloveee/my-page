@@ -2,7 +2,7 @@
 title: "My Experience While Making MAD1 Project"
 date: 2026-05-15
 draft: false
-weight: 1
+weight: 2
 tags: ["education", "python"]
 ---
 

@@ -2,7 +2,7 @@
 title: "PARADOX 2026: A Student's Perspective"
 date: 2026-06-24
 draft: false
-weight: 1
+weight: 3
 tags: ["education","explore"]
 ---
 
