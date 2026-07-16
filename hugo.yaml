@@ -2,10 +2,15 @@ baseURL: "https://withhloveee.in/"
 locale: en-us
 title: withhloveee
 theme: ["PaperMod"]
+enableRobotsTXT: true
 
 params:
   assets:
-    favicon: "favicon.ico"
+    favicon: "assets/favicon.ico"
+    favicon16x16: "assets/favicon.ico" 
+    favicon32x32: "assets/favicon.ico" 
+
+    
   ShowReadingTime: true
   ShowWordCount: true
   homeInfoParams:

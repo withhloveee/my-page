@@ -1,6 +1,6 @@
 ---
 title: "Track Your ChatGPT, Claude, and Gemini Usage."
-date: 2026-05-15
+date: 2026-07-16
 draft: false
 weight: 1
 tags: ["ai", "chrome-extension"]
