@@ -6,9 +6,9 @@ enableRobotsTXT: true
 
 params:
   assets:
-    favicon: "assets/favicon.ico"
-    favicon16x16: "assets/favicon.ico" 
-    favicon32x32: "assets/favicon.ico" 
+    favicon: "favicon.ico"
+    favicon16x16: "favicon.ico" 
+    favicon32x32: "favicon.ico" 
 
     
   ShowReadingTime: true
